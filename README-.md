@@ -1,0 +1,1 @@
+QR Component built using HTML and CSS
